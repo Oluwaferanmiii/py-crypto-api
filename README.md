@@ -37,10 +37,14 @@ pipenv shell
 uvicorn main:app --reload
 ```
 
+---
+
 ## Running Tests
 ```bash
 python -m unittest discover -s tests
 ```
+
+---
 
 ## Project Structure
 ```bash
