@@ -23,7 +23,7 @@ A Python-based application that provides encryption, decryption, and hashing ser
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/py_crypto_api.git
+git clone https://github.com/Oluwaferanmiii/py_crypto_api.git
 cd encrypt_decrypt_api
 ```
 
