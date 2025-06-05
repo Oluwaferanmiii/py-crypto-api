@@ -8,6 +8,7 @@ cryptography = "*"
 pycryptodome = "*"
 fastapi = "*"
 uvicorn = "*"
+streamlit = "*"
 
 [dev-packages]
 
