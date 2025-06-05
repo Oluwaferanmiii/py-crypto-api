@@ -24,7 +24,7 @@ A Python-based application that provides encryption, decryption, and hashing ser
 ### 1. Clone the Repository
 ```bash
 git clone https://github.com/Oluwaferanmiii/py-crypto-api
-cd encrypt_decrypt_api
+cd py-crypto-api-main
 ```
 
 ### 2. Install Dependencies (via Pipenv)
