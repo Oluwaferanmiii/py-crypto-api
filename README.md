@@ -69,4 +69,5 @@ crypto_project/
 
 ## 👨‍💻 Author
 Feranmi Akinwale
+
 Built for educational purposes — Cryptography & Security Lab Final Project
