@@ -14,6 +14,7 @@ A Python-based application that provides encryption, decryption, and hashing ser
   - RSA Encryption & Decryption
 
 - ⚡ REST API via FastAPI
+- 🖥️ Streamlit Frontend UI
 - ✅ Unit tested with `unittest`
 
 ---
@@ -35,6 +36,11 @@ pipenv shell
 ### 3. Start the API Server
 ```bash
 uvicorn main:app --reload
+```
+
+### 4. Run the Streamlit Frontend 
+```bash
+streamlit run streamlit_app.py
 ```
 
 ---
@@ -59,3 +65,8 @@ crypto_project/
 ├── Pipfile                # Pipenv dependency file
 ```
 
+---
+
+## 👨‍💻 Author
+Feranmi Akinwale
+Built for educational purposes — Cryptography & Security Lab Final Project
